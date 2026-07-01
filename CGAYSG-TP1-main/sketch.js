@@ -742,3 +742,5 @@ function reiniciarObraPorAplauso() {
     console.log("aplauso detectado: reinicio total de obra");
   }
 }
+
+ 
